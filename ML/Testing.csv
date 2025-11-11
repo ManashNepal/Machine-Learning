@@ -1,0 +1,21 @@
+,gender,race/ethnicity,test preparation course,math score,reading score,writing score
+0,female,group B,none,72,72,74
+1,female,group C,completed,69,90,88
+2,female,group B,none,90,95,93
+3,male,group A,none,47,57,44
+4,male,group C,none,76,78,75
+5,female,group B,none,71,83,78
+6,female,group B,completed,88,95,92
+7,male,group B,none,40,43,39
+8,male,group D,completed,64,64,67
+9,female,group B,none,38,60,50
+10,male,group C,none,58,54,52
+11,male,group D,none,40,52,43
+12,female,group B,none,65,81,73
+13,male,group A,completed,78,72,70
+14,female,group A,none,50,53,58
+15,female,group C,none,69,75,78
+16,male,group C,none,88,89,86
+17,female,group B,none,18,32,28
+18,male,group C,completed,46,42,46
+19,female,group C,none,54,58,61
